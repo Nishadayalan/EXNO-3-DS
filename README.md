@@ -31,8 +31,21 @@ We use this categorical data encoding technique when the features are nominal(do
 • Yeojohnson method
 
 # CODING AND OUTPUT:
-       # INCLUDE YOUR CODING AND OUTPUT SCREENSHOTS HERE
-# RESULT:
-       # INCLUDE YOUR RESULT HERE
+![image](https://github.com/Gedipudidarshani/EXNO-3-DS/assets/139340574/8d44ff7b-3351-455e-b22a-cca2edaae70f)
+![image](https://github.com/Gedipudidarshani/EXNO-3-DS/assets/139340574/6a1be072-df40-4ab4-8776-9979b5ebbc8f)
+![image](https://github.com/Gedipudidarshani/EXNO-3-DS/assets/139340574/f1e81a1e-c656-4f51-84f5-76db87c284c3)
+![image](https://github.com/Gedipudidarshani/EXNO-3-DS/assets/139340574/d368ff7e-9491-4f21-824c-35b50d900cf2)
+![image](https://github.com/Gedipudidarshani/EXNO-3-DS/assets/139340574/30838c78-ea10-4452-b3a9-81c332f50798)
+![image](https://github.com/Gedipudidarshani/EXNO-3-DS/assets/139340574/c539d949-b001-458d-ae25-b84ab4830453)
+![image](https://github.com/Gedipudidarshani/EXNO-3-DS/assets/139340574/ee5f18da-32b8-497a-a802-95dedfe40a7d)
+![image](https://github.com/Gedipudidarshani/EXNO-3-DS/assets/139340574/710ccd85-3f9f-49c2-a5f4-ed5cb77428eb)
+![image](https://github.com/Gedipudidarshani/EXNO-3-DS/assets/139340574/57328ace-d102-4e41-88e5-b7872f67cc5e)
+![image](https://github.com/Gedipudidarshani/EXNO-3-DS/assets/139340574/1f16c912-2056-4093-ae54-f66080fa1a00)
+![image](https://github.com/Gedipudidarshani/EXNO-3-DS/assets/139340574/9fd527f1-52ba-46ce-a561-26296072b4e5)
+![image](https://github.com/Gedipudidarshani/EXNO-3-DS/assets/139340574/9de1159c-7e1c-4f68-a72b-c2a9af92ddf2)
 
+
+# RESULT:
+  
+   Thus the given data, Feature Encoding, Transformation process and save the data to a file was performed successfully.
        
